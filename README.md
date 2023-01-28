@@ -5,8 +5,12 @@ Childhood obesity game
 Το συγκεκριμένο ερωτηματολόγιο αποτελεί μέρος των παραδοτέων του έργου σύμφωνα με τις προδιαγραφές που έχουν τεθεί και εγκριθεί από την ΕΕ. 
 
 Οι παρακάτω σύνδεσμοι οδηγούν στις αντίστοιχες εκδόσεις του ψηφιακού αντικειμένου.
-•	https://create.kahoot.it/details/46428f39-9e4a-46af-8e48-6a74d343ba6f (Αγγλική έκδοση ανοιχτό για επεξεργασία)
-•	https://kahoot.it/challenge/06304346?challenge-id=fbe6bf27-27c8-4d37-a604-edd74b9dbef4_1672679214664  (Αγγλική έκδοση παιχνίδι)
-•	PIN παιχνιδιού: 06304346
-•	https://create.kahoot.it/details/54364691-6ae1-440d-98b3-9538fa6e1f54 (Ελληνική  έκδοση ανοιχτό για επεξεργασία)
-•	https://kahoot.it/challenge/02173101?challenge-id=fbe6bf27-27c8-4d37-a604-edd74b9dbef4_1672679118743   (Ελληνική έκδοση παιχνίδι)  Game PIN: 02173101
+
+https://create.kahoot.it/details/46428f39-9e4a-46af-8e48-6a74d343ba6f (Αγγλική έκδοση ανοιχτό για επεξεργασία)
+
+https://kahoot.it/challenge/06304346?challenge-id=fbe6bf27-27c8-4d37-a604-edd74b9dbef4_1672679214664  (Αγγλική έκδοση παιχνίδι)
+PIN παιχνιδιού: 06304346
+
+https://create.kahoot.it/details/54364691-6ae1-440d-98b3-9538fa6e1f54 (Ελληνική  έκδοση ανοιχτό για επεξεργασία)
+
+https://kahoot.it/challenge/02173101?challenge-id=fbe6bf27-27c8-4d37-a604-edd74b9dbef4_1672679118743   (Ελληνική έκδοση παιχνίδι)  Game PIN: 02173101
