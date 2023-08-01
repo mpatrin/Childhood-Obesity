@@ -13,4 +13,4 @@ PIN παιχνιδιού: 06304346
 
 https://create.kahoot.it/details/54364691-6ae1-440d-98b3-9538fa6e1f54 (Ελληνική  έκδοση ανοιχτό για επεξεργασία)
 
-https://kahoot.it/challenge/02173101?challenge-id=fbe6bf27-27c8-4d37-a604-edd74b9dbef4_1672679118743   (Ελληνική έκδοση παιχνίδι)  Game PIN: 02173101
+https://kahoot.it/challenge/0508360?challenge-id=fbe6bf27-27c8-4d37-a604-edd74b9dbef4_1681377189298 (Ελληνική έκδοση παιχνίδι)  Game PIN: 0508360
